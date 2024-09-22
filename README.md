@@ -6,7 +6,11 @@ Career Mentor GPT, kullanıcılarımızdan aşağıdaki verileri toplayabilir:
 
 CV, iş başvuru bilgileri ve diğer dosyalar: Kullanıcıların sağladığı bilgiler yalnızca mentorluk hizmetlerinin sunulması amacıyla kullanılır.
 GPT ile yapılan sohbetler: Kullanıcıların GPT ile gerçekleştirdiği etkileşimlerde sunduğu metin ve içerikler, özelleştirilmiş rehberlik sağlamak için işlenir.
-Kullanıcı tarafından sağlanan kişisel bilgiler: (ad, e-posta adresi vb.) Sadece iletişim amacıyla kullanılır ve gereksiz yere toplanmaz.
+Kullanıcı tarafından sağlanan kişisel bilgiler: (ad, e-posta adresi vb.) Sadece iletişim amacıyla kullanılır ve gereksiz yere toplanmaz. 
+Yüklenen dosyalar ve kişisel bilgiler yalnızca Career Mentor GPT hizmetinin sunulması amacıyla kullanılacaktır. 
+Hiçbir veri üçüncü taraflarla paylaşılmayacak, ticari amaçlarla kullanılmayacak.
+Kullanıcılar dosyalarını istedikleri zaman silebilir ya da verilerinin silinmesini talep edebilir.
+
 2. Veri Kullanımı
 Toplanan veriler yalnızca şu amaçlarla kullanılır:
 
